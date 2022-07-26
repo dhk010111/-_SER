@@ -12,6 +12,7 @@
 - mel : Mel Spectrogram Frequency
 
 [Category]
+
 01: neutral
 02: calm
 03: happy
@@ -22,7 +23,7 @@
 08: surprised
 
 [Result]
-- Accuray: 55.21% (시발..)
+- Accuracy: 55.21% (시발..)
 
 [model experiment]
 ref:https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
