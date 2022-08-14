@@ -22,8 +22,5 @@
 07: disgust
 08: surprised
 
-[Result]
-- Accuracy: 55.21% (시발..)
-
 [model experiment]
 ref:https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
